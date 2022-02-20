@@ -54,5 +54,5 @@ Console.WriteLine("Исходный массив: ");
 PrintArray(array);
 Console.WriteLine("Результирующий массив: ");
 FillArraySelectedItemsAndPrint(array);
-Console.WriteLine();
+// Console.WriteLine();
 
